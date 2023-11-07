@@ -7,12 +7,12 @@ body {
 }
 
 .principal{
-	background: #CCCCCC;
-	padding: 30px;
+	background: #A25511;
+	padding: 400px;
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	padding-left: 800px;
 }
 
 .titulo-centralizado {
@@ -28,16 +28,17 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+    color:#A22E11
 }
+
 
 .itens {
 	font-style: italic
 }
 
 .beneficios {
-	background: #FFFFFF;
-	padding: 20px;
+	background: #A25511;
+	padding: 40px;
 }
 
 ul {
@@ -48,5 +49,5 @@ ul {
 }
 
 .imagembeneficios {
-	width: 50%;
+	width: 20%;
 }
